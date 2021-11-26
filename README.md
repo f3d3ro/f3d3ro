@@ -1,5 +1,3 @@
-<div align="center">
-<img src=https://user-images.githubusercontent.com/25161500/142695574-41b1816b-ca2c-4896-b441-e71e59b5f8a6.jpg>
 <p>Something about me</p>
 </div>
 <div align="left">
